@@ -1,1 +1,1 @@
-# Exemple-site-salle-de-sport
+Exemple site vitrine salle de sport, suivant le tutoriel de l'école du Web.
